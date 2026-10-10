@@ -1,0 +1,14 @@
+{
+  "name": "mummentum",
+  "description": "Claude-Code-Mods von mummentum.",
+  "owner": {
+    "name": "mummentum"
+  },
+  "plugins": [
+    {
+      "name": "mummentum-leaderboard",
+      "source": "./",
+      "description": "Meldet den Claude-Token-Verbrauch an das öffentliche mummentum-Leaderboard."
+    }
+  ]
+}

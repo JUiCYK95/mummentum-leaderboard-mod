@@ -1,0 +1,11 @@
+{
+  "name": "mummentum-leaderboard",
+  "version": "0.1.0",
+  "description": "Meldet den Claude-Token-Verbrauch an das öffentliche mummentum-Leaderboard.",
+  "author": {
+    "name": "mummentum"
+  },
+  "homepage": "https://mummentum-leaderboard.vercel.app",
+  "repository": "https://github.com/JUiCYK95/mummentum-leaderboard-mod",
+  "types": "./types/index.d.ts"
+}
